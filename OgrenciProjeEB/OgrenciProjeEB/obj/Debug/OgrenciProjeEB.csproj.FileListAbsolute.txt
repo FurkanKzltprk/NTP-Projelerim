@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\obj\Debug\OgrenciProjeEB.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\obj\Debug\OgrenciProjeEB.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\bin\Debug\OgrenciProjeEB.exe.config
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\bin\Debug\OgrenciProjeEB.exe
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\bin\Debug\OgrenciProjeEB.pdb
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\obj\Debug\OgrenciProjeEB.exe
+C:\Users\Furkan\source\repos\OgrenciProjeEB\OgrenciProjeEB\obj\Debug\OgrenciProjeEB.pdb
