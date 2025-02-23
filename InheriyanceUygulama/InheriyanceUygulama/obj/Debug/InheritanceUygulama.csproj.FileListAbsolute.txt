@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\bin\Debug\InheriyanceUygulama.exe.config
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\bin\Debug\InheriyanceUygulama.exe
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\bin\Debug\InheriyanceUygulama.pdb
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\obj\Debug\InheritanceUygulama.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\obj\Debug\InheritanceUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\obj\Debug\InheriyanceUygulama.exe
+C:\Users\Furkan\source\repos\InheriyanceUygulama\InheriyanceUygulama\obj\Debug\InheriyanceUygulama.pdb
